@@ -1,6 +1,10 @@
 # ascii_vid
 A small 3D rendering engine which outputs ascii images.
 
+This project was inspired by [Andy Sloane's donut.c](https://www.a1k0n.net/2011/07/20/donut-math.html).
+
+# Try it out
+
 With [rust and cargo installed](https://www.rust-lang.org/tools/install), you can simply execute
 ```
 cargo run --release
